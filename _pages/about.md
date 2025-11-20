@@ -18,20 +18,35 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I'm Dariusz Wójcik, a PhD Candidate at the [Space Research Centre of Polish Academy of Sciences](https://cbkpan.pl/en/) (SRC PAS) in [Warsaw](https://www.poland.travel/en/warsaw/), Poland, working under supervision of [Prof. Wiesław M. Macek](http://users.cbk.waw.pl/~macek/). My research journey has covered diverse fields, combining mathematics, statistics, physics, and space sciences to tackle complex problems in modern and innovative ways.
+Welcome to my website!
+My name is **Dariusz Wójcik**, **PhD**, Research Fellow (Space Physicist) at the [Space Research Centre of Polish Academy of Sciences](https://cbkpan.pl/en/) (SRC PAS) in [Warsaw](https://www.poland.travel/en/warsaw/), Poland. 
 
-I hold B.Sc. in Mathematics (Finances), and two M.Sc.'s in Mathematics in Economy, and Insurance & Finance respectively. However, my academic background spans a wide array of specializations, from mathematical modeling in cyber insurance ([M.Sc. thesis](https://dwojcik1.github.io/assets/pdf/MSc_PW.pdf)) and economics to the study of generalized Lorenz equations in physics (second [M.Sc. thesis](https://dwojcik1.github.io/assets/pdf/MSc_UKSW.pdf)). Currently, my focus is on stochastic processes - particularly Markov processes - along with Ordinary and Stochastic Differential Equations, statistical methods, and numerical analysis (using [R](https://cran.r-project.org), [Python](https://www.python.org), and [Matlab](https://www.mathworks.com/products/matlab.html) languages). Additionally, I explore fractal and multifractal theory, adding depth to my understanding of dynamic systems.
+My academic background spans mathematics, statistics, physics, space sciences, and finances, with a B.Sc. in **Mathematics** (Finances) and two M.Sc. degrees in **Mathematics** (in Economics and in Insurance & Finance). 
+My early research included mathematical modeling in Cyber Insurances ([M.Sc. thesis](https://dwojcik1.github.io/assets/pdf/MSc_PW.pdf)) and Economics, as well as the study of Generalized Lorenz Equations in physics (second [M.Sc. thesis](https://dwojcik1.github.io/assets/pdf/MSc_UKSW.pdf)).
 
-My research has been published in [The Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X), and [Physical Review](https://journals.aps.org), among others, and I’ve had the privilege of presenting my findings at various international conferences, e.g., well established [European Geosciences Union](https://www.egu.eu) (see also my Conferences & Projects tab). Since 2022 I’m also actively involved in a [National Science Centre](https://www.ncn.gov.pl/en) (Poland) project focused on *Turbulence and Magnetic Reconnection in Earth’s Space Environment*.
+I later completed my Ph.D. in **Space Physics** with honors (**_Cum Laude_**), under supervision of [Prof. Wiesław M. Macek](http://users.cbk.waw.pl/~macek/), where I focused on the analysis of Markov processes in the space environment. 
+Today, my work integrates advanced mathematical methods with space plasma research. 
+I develop and analyze dynamical and stochastic models, drawing on stochastic processes, particularly Markov processes, ordinary and stochastic differential equations, statistical methods, and numerical analysis using [R](https://cran.r-project.org), [Python](https://www.python.org), and [MATLAB](https://www.mathworks.com/products/matlab.html) languages.
 
-In recent years, during my PhD course, my work has expanded into the fascinating realms of space science, with a specific interest in *solar wind*, *turbulence*, *space plasmas*, and *kinetic scales*. Such interdisciplinary approach throughout the years allows me to adapt quickly to new research areas, and I’m always excited to take on new challenges. My open-minded attitude toward exploration drives my ability to contribute better to collaborative research.
+My current research centers on space plasma dynamics, turbulence, and magnetic reconnection in the Earth’s magnetosphere. 
+I analyze observational data from NASA’s _Magnetospheric Multiscale_ (_MMS_) mission to better understand the complex behavior of plasma and magnetic fields in near-Earth space. 
+Additionally, I explore fractal and multifractal structures in dynamical systems, broadening my interdisciplinary approach to complex physical phenomena.
+
+My research findings have been published in [The Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X), [Journal of Geophysical Research](https://agupubs.onlinelibrary.wiley.com/journal/21562202), and [Physical Review](https://journals.aps.org), among others, and I’ve had the privilege of presenting my findings at various international conferences, e.g., well established [European Geosciences Union](https://www.egu.eu) (see also my Conferences & Projects tab) and [American Geophysical Union](https://www.agu.org). 
+Since Jan 2022 until Aug 2025, I’m also involved in a [National Science Centre](https://www.ncn.gov.pl/en) (Poland) project focused on *Turbulence and Magnetic Reconnection in Earth’s Space Environment*.
+
+In recent years, during my PhD course, my work has expanded into the world of space science, with a specific interest in *solar wind*, *turbulence*, *magnetic reconnection*, *space plasmas*, and *kinetic regime*. 
+Such interdisciplinary approach throughout the years allows me to adapt quickly to new research areas, and I’m always excited to take on new challenges. 
+My open-minded attitude toward research drives my ability to contribute better to collaborative research.
 
 ---
 
 On this website, you’ll find a portfolio of my projects, articles exploring given topics, materials related to scientific conferences and given lectures, and hopefully in the near future my blog where I discuss the latest trends in statistics, AI, machine learning, and cyber security. 
-When I’m not immersed in mathematics and programming, I enjoy reading psychology books, cooking, playing strategy games, playing [snooker](https://www.wst.tv), and spending quality time with my family.
+When I’m not immersed in mathematics and programming, I enjoy reading psychology books, playing strategy games, playing [snooker](https://www.wst.tv), and spending quality time with my family.
 
-I invite you to explore my work, and if you’re interested in collaborating or have any project in mind, please feel free to *reach out*, using one of the links (at the bottom of this page). Let’s turn complex challenges into meaningful results. Whether you’re a fellow researcher, PhD Cancdidate, undergraduate student, or a company employee or a manager in need of innovative solutions, I’m always *open to connecting* with like-minded individuals and exploring new opportunities!
+I invite you to explore my work, and if you’re interested in collaborating or have any project in mind, please feel free to *reach out*, using one of the links (at the bottom of this page). 
+Let’s turn complex challenges into meaningful results. 
+Whether you’re a researcher, PhD Cancdidate, undergraduate student, or a company employee or a manager in need of innovative solutions, I’m always *open to connecting* and exploring new opportunities!
 
 ---
 
